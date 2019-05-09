@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Sorting Alogorithm.iml" filepath="$PROJECT_DIR$/Sorting Alogorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickSort/quickSort.iml" filepath="$PROJECT_DIR$/quickSort/quickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selectedSort/selectedSort.iml" filepath="$PROJECT_DIR$/selectedSort/selectedSort.iml" />
     </modules>
   </component>
 </project>
