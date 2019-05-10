@@ -12,6 +12,9 @@ public class selectedSort {
         System.out.println(Arrays.toString(a));
     }
 
+
+
+
     private static void selectSort(int[] a) {
         if (a==null || a.length<=0){
             return;
